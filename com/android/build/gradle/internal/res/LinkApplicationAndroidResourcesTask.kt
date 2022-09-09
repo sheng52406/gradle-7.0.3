@@ -53,7 +53,7 @@ import com.android.build.gradle.internal.utils.setDisallowChanges
 import com.android.build.gradle.internal.utils.toImmutableList
 import com.android.build.gradle.options.BooleanOption
 import com.android.build.gradle.options.StringOption
-import com.android.build.gradle.tasks.ProcessAndroidResources
+import com.android.build.gradle.tasks.ProcessAndroidReources
 import com.android.builder.core.VariantType
 import com.android.builder.internal.aapt.AaptOptions
 import com.android.builder.internal.aapt.AaptPackageConfig
